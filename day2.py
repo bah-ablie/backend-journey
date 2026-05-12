@@ -27,4 +27,3 @@ fav_book = "Atomic Habits"
 nickname = "Zap"
 message = f"My nickname is {nickname} and i like {hobby} in my free time and my favorite book is {fav_book}"
 print(message)
-print(f'\nHi Everyone I just found a bigger dinner table!:')
